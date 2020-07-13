@@ -1,0 +1,54 @@
+{
+  "Version": [
+   
+   
+   	{
+	    	  "is_active": false ,
+	    	 
+			"ad_name": "start_app",
+			"startapp_counter_server_list":"20",
+			"startapp_counter_server_player":"20"
+			
+						
+
+		},
+	    
+	    
+    {
+      "fource": true ,
+      "unfource": true ,
+      "pos_but":"تحديث",
+      "neg_but":"لاحقا",
+      "ForceUpdate_but":"تحديث",
+      "dialog_counter": "50",
+      "dialog_title":"قم بتحديث البرنامج",
+      
+      "dialog__ink":"http://play.google.com/store/apps/details?id=com.madleo_hj.fairooz",
+      
+      "dialog_body":"يوجد تحديث مهم"
+      
+      
+      
+      
+    },
+   
+    
+      {
+			"is_active": false ,
+			"ad_name": "admob",
+			"app_id": "ca-app-pub-9602864611291863~6166225040",
+				"banner_id":"ca-app-pub-3940256099942544/6300978111",
+			"int_id": "ca-app-pub-3940256099942544/1033173712",
+			
+			"admo_counter_server_list": "20",
+			"admo_counter_server_player": "20",
+			"Int_count": "3"
+			
+	
+			
+		}
+		
+		
+
+  ]
+}
